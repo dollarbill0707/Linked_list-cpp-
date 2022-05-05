@@ -1,3 +1,4 @@
+//linked_list stack
 #include <iostream>
 #include <stdexcept>
 
